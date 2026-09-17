@@ -18,7 +18,7 @@ A simple static webpage built for the MI 349 3.6 Lab. The goal was to practice t
 
 ## Live site
 
-**Netlify URL:** [Add Link Here]
+**Netlify URL:** https://helloworldweigle.netlify.app/
 
 ## Repository
 
